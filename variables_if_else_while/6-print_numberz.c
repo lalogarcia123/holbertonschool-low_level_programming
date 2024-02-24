@@ -3,8 +3,9 @@
 /**
   * main - lo mismo pero con otro tipo de dato int
   *
-  * Return: 
-  */
+  * Return: something
+  *
+  * */
 int main(void)
 {
 	int n;

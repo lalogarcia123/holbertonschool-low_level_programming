@@ -5,7 +5,7 @@
   *
   * Return: something
   *
-  * */
+  */
 int main(void)
 {
 	int n;
